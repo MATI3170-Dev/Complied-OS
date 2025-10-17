@@ -2,21 +2,27 @@ Complied OS Custom License (2025)
 
 © 2025 Mateusz Mehdi Benkhaled. All rights reserved.
 
-1. Permission
-You are allowed to:
-  - View, study, and learn from the source code.
-  - Modify the source code for personal, educational, or non-commercial use.
-  - Share modified versions for non-commercial use, provided this license and author credit remain intact.
+1. Permission  
+You are allowed to:  
+ - View, study, and learn from the source code.  
+ - Modify the source code for personal, educational, or non-commercial use.  
+ - Share modified versions for non-commercial use, provided this license and author credit remain intact.  
 
-2. Restrictions
-You MAY NOT:
-  - Claim this project or any part of it as your own.
-  - Sell, redistribute, or sublicense this project (or modified versions) without explicit written permission from the author.
-  - Remove or alter the author credit in any files.
+2. Restrictions  
+You MAY NOT:  
+ - Claim this project or any part of it as your own.  
+ - Sell, redistribute, or sublicense this project (or modified versions) without explicit written permission from the author.  
+ - Remove or alter the author credit in any files.  
 
-3. Disclaimer
-This software is provided "as-is", without warranty of any kind. The author is not responsible for any damages or issues arising from the use of this software.
+Complied OS is an original open-source project created by Mateusz Mehdi Benkhaled (MATI3170-Dev).  
+The names "Complied OS", "Compiled-OS", and any minor variations or similar names intended to cause confusion  
+are protected and may not be used for other distributions, forks, or derivative systems.  
 
-4. Contact
-For commercial use, distribution, or other permissions, contact the author:
-Mateuszmehdi.benkhaled@outlook.com 
+3. Disclaimer  
+This software is provided "as is", without warranty of any kind.  
+The author is not responsible for any damages, loss of data, or other issues arising from the use of this software.  
+
+4. Contact  
+For commercial use, distribution, or other permissions, contact the author:  
+mateuszmehdi.benkhaled@outlook.com
+ 
