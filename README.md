@@ -32,7 +32,7 @@ See [LICENSE](LICENSE.txt) for details.
 We are currently in the **system build phase**.  
 You will be able to **explore the full system structure and source code** directly in the `/system` directory on GitHub.  
 
-Once the system reaches a stable build, we will also release the **official installer**, which will be available in the `/install` directory.  
+Once the system reaches a stable build, we will also release the **official installer**, which will be available in the `/installer` directory.  
 
 Stay tuned — Complied OS is **compiling soon...**
 
