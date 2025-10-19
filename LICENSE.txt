@@ -16,7 +16,15 @@ You MAY NOT:
 
 Complied OS is an original open-source project created by Mateusz Mehdi Benkhaled (MATI3170-Dev).  
 The names "Complied OS", "Compiled-OS", and any minor variations or similar names intended to cause confusion  
-are protected and may not be used for other distributions, forks, or derivative systems.  
+are protected and may not be used for other distributions, forks, or derivative systems. 
+
+The official Complied OS logo, icons, artwork, and visual identity are exclusive property of Mateusz Mehdi Benkhaled (MATI3170-Dev).
+
+You may not copy, reproduce, modify, or create similar logos, icons, or branding materials intended to imitate or confuse with Complied OS.
+
+The logo and other brand assets are not covered under the open-source license granted for the software code.
+
+Any use of these visual materials requires explicit written permission from the author.
 
 3. Disclaimer  
 This software is provided "as is", without warranty of any kind.  
